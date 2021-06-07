@@ -1,0 +1,13 @@
+header {
+    display: block;
+    background-color: blue;
+    height: 60px;
+    width: auto;
+    align-items: center;
+}
+
+#tab_buttons {
+   align-items: center;
+   padding-top: 10px;
+   text-align: center;
+}
